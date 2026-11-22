@@ -171,9 +171,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - [MNIST database](http://yann.lecun.com/exdb/mnist/) by Yann LeCun, Corinna Cortes, and Christopher J.C. Burges
-- Course instructor: **[Instructor Name]**
-- **[Any tutorials, papers, or libraries you want to credit]**
 
----
 
-**Author:** [Your Name] · [GitHub](https://github.com/<your-username>) · [Email](mailto:your.email@example.com)
+**Author:** [Adeyemi Gabriel] · [GitHub](https://github.com/GNA-Gabriel) · [Email](mailto:nifemi1a1@gmail.com)
